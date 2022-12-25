@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\bin\Debug\netcoreapp3.1\ConsoleApp_Ccharp.exe
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\bin\Debug\netcoreapp3.1\ConsoleApp_Ccharp.deps.json
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\bin\Debug\netcoreapp3.1\ConsoleApp_Ccharp.runtimeconfig.json
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\bin\Debug\netcoreapp3.1\ConsoleApp_Ccharp.runtimeconfig.dev.json
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\bin\Debug\netcoreapp3.1\ConsoleApp_Ccharp.dll
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\bin\Debug\netcoreapp3.1\ConsoleApp_Ccharp.pdb
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.AssemblyInfo.cs
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.dll
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.pdb
+C:\Users\User\Downloads\VISUALG_3.0.7\PROGRAMADOR\LINGUAGENS_DE_PROGRAMAÇÃO\LINGUEGEM__C#\Visual_Studio_2019\ConsoleApp_Ccharp\ConsoleApp_Ccharp\obj\Debug\netcoreapp3.1\ConsoleApp_Ccharp.genruntimeconfig.cache

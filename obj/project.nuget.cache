@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZkcecvDC+9QZk7c1NTnt3U5EuwCB68PjkbX+SHWWBe0kjcSFvbvMVzYsmOKyQswl2Tvnv3xACxuSfT9OF07mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\VISUALG_3.0.7\\PROGRAMADOR\\LINGUAGENS_DE_PROGRAMAÇÃO\\LINGUEGEM__C#\\Visual_Studio_2019\\ConsoleApp_Ccharp\\ConsoleApp_Ccharp\\ConsoleApp_Ccharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
